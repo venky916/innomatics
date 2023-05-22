@@ -1,0 +1,17 @@
+{% extends 'layout.html' %}
+
+{% block title %}
+Home
+{% endblock %}
+
+{% block body %}
+    {% if age > 18 %}
+        <h1>Thanks {{ user }} for registering. You are allowed to enter.</h1>
+    {% else %}
+        <h1>{{ user }}, thanks for registering. We only allow a user above 18 yo.</h1>
+    {% endif %}
+
+    {% for i in user %}
+        <b>{{ i }}</b><br>
+    {% endfor %}
+{% endblock %}

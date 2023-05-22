@@ -1,0 +1,31 @@
+{% extends 'layout.html' %}
+
+{% block title %}
+homepage
+{% endblock %}
+
+{% block content %}
+
+<style>
+    .flex-container{
+        text-align: center;
+        background-color: brown;
+        color: whitesmoke;
+    }
+</style>
+
+<div class="flex-container">
+    <h1>welome to url shortner app</h1>
+    <form action="{{ url_for('index') }}" method="post">
+        <label for="input_url">URL</label>
+        <textarea name="input_url" rows="10" cols="30">{{ actual_url }}</textarea><br><br>
+        <input type="submit" value="Shorten"><br><br>
+    </form>
+
+    {% if check_url or short_url %}
+        <h1>click on  the short url</h1>
+        <a href='http://127.0.0.1:5000/{{ short_url }}' value='http://127.0.0.1:5000/{{ short_url }}' style="color:yellowgreen;">http://127.0.0.1:5000/{{ short_url }}</a>
+    {% endif%}
+
+</div>
+{% endblock %}

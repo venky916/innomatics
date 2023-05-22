@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Search Page</title>
+</head>
+<body>
+    <h1>Welcome to the ADD Page</h1>
+    <form action="{{ url_for('add_fun') }}" method="post">
+        <input type="text" name="var_1">
+        <input type="text" name="var_2">
+        <input type="submit" value="ADD">
+    </form>
+</body>
+</html>

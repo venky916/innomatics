@@ -1,0 +1,28 @@
+{% extends 'layout.html' %}
+
+{% block title %}
+history page
+{% endblock %}
+
+
+{% block content %}
+<style>
+    .ul{
+        display: flexbox;
+        background-color: greenyellow;
+        color: black ;
+    }
+    h1{
+        align-items: center;
+    }
+</style>
+<h1 >
+    history page
+</h1>
+
+<ol type="1" class="ul">
+    {% for url in urls %}
+        <li>{{ url }}</li>
+    {% endfor %}
+    </ol>
+{% endblock %}

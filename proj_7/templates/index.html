@@ -1,0 +1,14 @@
+{% extends 'layout.html' %}
+
+{% block title %}
+Home
+{% endblock %}
+
+{% block body %}
+<h1>Welcome to the BILLION DOLLAR CLUB</h1>
+<form action="{{ url_for('thankyou_fun') }}" method="post">
+    <input type="text" name="user_name" placeholder="Enter Usetr Name">
+    <input type="text" name="age" placeholder="Enter Age">
+    <input type="submit" value="Register">
+</form>
+{% endblock %}

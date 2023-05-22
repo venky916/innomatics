@@ -1,0 +1,19 @@
+{% extends 'layout.html' %}
+
+{% block title %}
+history page
+{% endblock %}
+
+
+{% block content %}
+<h1>
+    history page
+</h1>
+<ul>
+    {% for url in all_urls %}
+
+        <li>{{ url }}</li><input type="submit" value="delete">
+        
+    {% endfor %}
+    </ul>
+{% endblock %}

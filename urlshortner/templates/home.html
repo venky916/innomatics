@@ -1,0 +1,19 @@
+{% extends 'layout.html' %}
+
+{% block title %}
+homepage
+{% endblock %}
+
+
+{% block content %}
+
+<h1>welome to url shortner app</h1>
+
+<form action="/" method="post">
+    enter url :<input type="text" name='inp_url' width="100" value="{{ url }}" size="50"><br><br>
+    <input type="submit" value="Shorten"><br><br>
+    shorten_url <input type="text" width="100" value='{{ short_url }}' size="50"><br><br>
+    <input type="button" value="COPY" >
+</form>
+
+{% endblock %}

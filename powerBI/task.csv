@@ -1,0 +1,144 @@
+,order_id,exec_type_x,trader,exchange_code,legal_entity,execution_time_x,order_quantity,clearing_account,exec_type_y,execution_time_y,spoof_time
+0,2210530,New,Gyllenhal Sons,,National Fuels Corp,2021-01-11 13:32:00,1000,AC0120,Canceled,2021-01-11 13:33:00,0.02
+1,7000370,New,Gyllenhal Sons,SB,National Fuels Corp,2021-06-15 17:43:12,100,AC0120,Canceled,2021-06-15 19:14:36,1.52
+3,2209334,New,Gyllenhal Sons,,National Fuels Canada,2021-12-05 16:09:00,5,AC0120,Canceled,2021-06-15 19:14:36,-4148.91
+7,60000117,New,Gyllenhal Sons,C,National Fuels Corp,2021-08-07 18:27:00,100,AC0120,Canceled,2021-08-07 22:00:00,3.55
+8,50000131,New,Gyllenhal Sons,,National Fuels Corp,2021-07-21 15:19:12,200,AC0000,Canceled,2021-07-21 15:19:42,0.01
+10,60000116,New,Gyllenhal Sons,C,National Fuels Corp,2021-08-07 18:27:00,10,AC0120,Canceled,2021-08-07 22:00:00,3.55
+11,50000123,New,Gyllenhal Sons,Z1Q,National Fuels Corp,2021-06-15 16:57:49,100,AC0000,Canceled,2021-06-15 19:14:36,2.28
+13,5008249,New,John Obero Smith,N,National Fuels Corp Ottawa,2022-08-06 14:06:00,20,AC0008,Canceled,2022-08-06 14:14:00,0.13
+14,5008248,New,John Obero Smith,N,National Fuels Corp Ottawa,2022-08-06 14:05:00,50,AC0008,Canceled,2022-08-06 14:14:00,0.15
+15,5008250,New,John Obero Smith,N,National Fuels Corp Ottawa,2022-08-06 14:06:00,5,AC0008,Canceled,2022-08-06 14:14:00,0.13
+16,5013042,New,John Obero Smith,N,National Fuels Corp Ottawa,2022-06-21 18:01:00,50,AC0008,Canceled,2022-06-21 18:01:00,0.0
+17,5008131,New,Gyllenhal Sons,N,National Fuels Canada,2021-10-06 17:36:00,30,AC0120,Canceled,2021-10-06 17:37:00,0.02
+18,15000254,New,Gyllenhal Sons,T,National Fuels Corp,2021-10-26 13:14:23,2,AC0120,Canceled,2021-10-26 22:00:00,8.76
+19,15000228,New,Gyllenhal Sons,T,National Fuels Canada,2021-10-06 17:50:00,30,AC0120,Canceled,2021-10-06 17:50:00,0.0
+20,13128424,New,Gyllenhal Sons,B,National Fuels Corp,2021-06-15 20:16:31,10,AC0120,Canceled,2021-06-15 22:00:00,1.72
+21,5005942,New,Gyllenhal Sons,N,National Fuels Corp,2021-06-15 13:40:38,100,AC0120,Canceled,2021-06-15 19:14:36,5.57
+23,15000247,New,Gyllenhal Sons,T,National Fuels Corp,2021-04-11 15:41:00,2,AC0120,Canceled,2021-04-11 22:00:00,6.32
+24,5005629,New,Gyllenhal Sons,N,National Fuels Corp,2021-04-11 15:41:00,2,AC0120,Canceled,2021-04-11 22:00:00,6.32
+25,15025994,New,Gyllenhal Sons,T,National Fuels Corp,2021-06-15 14:57:39,500,AC0120,Canceled,2021-06-15 19:14:36,4.28
+27,15000253,New,Gyllenhal Sons,T,National Fuels Corp,2021-10-26 13:14:12,2,AC0120,Canceled,2021-10-26 22:00:00,8.76
+28,13002836,New,Gyllenhal Sons,B,National Fuels Corp,2021-08-26 15:45:59,4,AC0120,Canceled,2021-08-26 22:00:00,6.23
+29,15026011,New,Gyllenhal Sons,T,National Fuels Corp,2021-06-15 15:33:20,500,AC0120,Canceled,2021-06-15 19:14:36,3.69
+31,15000230,New,Gyllenhal Sons,T,National Fuels Canada,2021-10-06 17:51:00,30,AC0120,Canceled,2021-10-06 17:51:00,0.0
+32,15000252,New,Gyllenhal Sons,T,National Fuels Corp,2021-10-26 13:14:07,2,AC0120,Canceled,2021-10-26 22:00:00,8.76
+33,15026014,New,Gyllenhal Sons,T,National Fuels Corp,2021-06-15 15:33:44,100,AC0120,Canceled,2021-06-15 19:14:36,3.68
+35,1001596,New,Gyllenhal Sons,14Y,National Fuels Corp,2021-10-25 21:19:22,100,AC0120,Canceled,2021-10-25 21:19:40,0.01
+36,1001595,New,Gyllenhal Sons,14Y,National Fuels Corp,2021-10-25 21:19:16,6,AC0120,Canceled,2021-10-25 21:19:39,0.01
+37,56250309,New,Gyllenhal Sons,BS1,National Fuels Corp,2021-02-08 15:41:00,10,AC0120,Canceled,2021-02-08 15:43:00,0.03
+38,13007346,New,Gyllenhal Sons,B,National Fuels Canada,2021-04-28 14:43:47,5,AC0025,Canceled,2021-04-28 22:00:00,7.27
+39,5007482,New,Gyllenhal Sons,N,National Fuels Canada,2021-04-28 13:37:03,1000,AC0025,Canceled,2021-04-28 22:00:00,8.38
+40,5007479,New,Gyllenhal Sons,N,National Fuels Canada,2021-04-28 13:36:42,7,AC0025,Canceled,2021-04-28 22:00:00,8.39
+41,13007093,New,Gyllenhal Sons,B,National Fuels Canada,2021-04-28 13:36:22,100,AC0025,Canceled,2021-04-28 15:30:00,1.89
+42,13007342,New,Gyllenhal Sons,B,National Fuels Canada,2021-04-28 14:43:34,6,AC0025,Canceled,2021-04-28 22:00:00,7.27
+43,13007345,New,Gyllenhal Sons,B,National Fuels Canada,2021-04-28 14:43:42,5,AC0025,Canceled,2021-04-28 22:00:00,7.27
+44,2166874,New,John Obero Smith,HOF,National Fuels Corp Ottawa,2022-05-19 12:58:00,100,AC0008,Canceled,2022-06-21 17:56:00,796.97
+46,1552378,New,Gyllenhal Sons,TRL,National Fuels Corp,2021-10-20 13:54:29,2500,AC0025,Canceled,2021-10-29 13:42:39,215.8
+48,1552841,New,John Obero Smith,ALG,National Fuels Corp Ottawa,2022-12-05 19:00:00,25000,AC0105,Canceled,2022-12-05 19:01:00,0.02
+49,1552620,New,John Obero Smith,ALG,National Fuels Corp Ottawa,2022-12-05 18:49:00,15000,AC0105,Canceled,2022-12-05 18:50:00,0.02
+50,1552491,New,John Obero Smith,HHD,National Fuels Corp Ottawa,2022-12-05 17:58:00,37500,AC0008,Canceled,2022-12-05 18:03:00,0.08
+51,1552621,New,John Obero Smith,ALG,National Fuels Corp Ottawa,2022-12-05 18:53:00,12500,AC0105,Canceled,2022-12-05 18:53:00,0.0
+52,2166710,New,John Obero Smith,GUU,National Fuels Corp Ottawa,2022-11-05 13:50:00,10,AC0008,Canceled,2022-11-05 13:52:00,0.03
+53,2166709,New,John Obero Smith,GUU,National Fuels Corp Ottawa,2022-11-05 13:49:00,13,AC0008,Canceled,2022-11-05 13:50:00,0.02
+54,2166716,New,John Obero Smith,GUU,National Fuels Corp Ottawa,2022-11-05 13:52:00,300,AC0008,Canceled,2022-11-05 13:53:00,0.02
+55,1552417,New,John Obero Smith,ALG,National Fuels Corp Ottawa,2022-12-05 17:47:00,25000,AC0105,Canceled,2022-12-05 17:48:00,0.02
+56,1552407,New,John Obero Smith,ALG,National Fuels Corp Ottawa,2022-12-05 17:47:00,17500,AC0105,Canceled,2022-12-05 17:48:00,0.02
+57,2166722,New,John Obero Smith,GUU,National Fuels Corp Ottawa,2022-11-05 13:53:00,500,AC0008,Canceled,2022-11-05 13:54:00,0.02
+58,1552784,New,John Obero Smith,ALG,National Fuels Corp Ottawa,2022-12-05 18:59:00,12500,AC0105,Canceled,2022-12-05 18:59:00,0.0
+59,2166707,New,John Obero Smith,GUU,National Fuels Corp Ottawa,2022-11-05 13:49:00,13,AC0008,Canceled,2022-11-05 13:50:00,0.02
+60,2166713,New,John Obero Smith,GUU,National Fuels Corp Ottawa,2022-11-05 13:51:00,500,AC0008,Canceled,2022-11-05 13:52:00,0.02
+61,1552622,New,John Obero Smith,ALG,National Fuels Corp Ottawa,2022-12-05 18:53:00,40000,AC0105,Canceled,2022-12-05 18:58:00,0.08
+62,1552490,New,John Obero Smith,HHD,National Fuels Corp Ottawa,2022-12-05 17:57:00,12500,AC0008,Canceled,2022-12-05 17:58:00,0.02
+63,2166711,New,John Obero Smith,GUU,National Fuels Corp Ottawa,2022-11-05 13:51:00,10,AC0008,Canceled,2022-11-05 13:52:00,0.02
+64,2166708,New,John Obero Smith,GUU,National Fuels Corp Ottawa,2022-11-05 13:49:00,12,AC0008,Canceled,2022-11-05 13:50:00,0.02
+65,1552440,New,John Obero Smith,ALG,National Fuels Corp Ottawa,2022-12-05 17:49:00,10000,AC0105,Canceled,2022-12-05 17:49:00,0.0
+66,1552291,New,John Obero Smith,ALG,National Fuels Corp Ottawa,2022-05-17 15:55:00,47500,AC0105,Canceled,2022-05-17 15:55:00,0.0
+75,1552290,New,John Obero Smith,ALG,National Fuels Corp Ottawa,2022-05-17 15:54:00,20000,AC0105,Canceled,2022-05-17 15:55:00,0.02
+84,1552285,New,John Obero Smith,ALG,National Fuels Corp Ottawa,2022-05-17 15:53:00,60000,AC0105,Canceled,2022-05-17 15:53:00,0.0
+93,1552281,New,John Obero Smith,ALG,National Fuels Corp Ottawa,2022-05-17 15:52:00,35000,AC0105,Canceled,2022-05-17 15:53:00,0.02
+102,2166965,New,John Obero Smith,GUU,National Fuels Corp Ottawa,2022-05-17 15:56:00,26,AC0008,Canceled,2022-05-17 15:57:00,0.02
+120,1552274,New,John Obero Smith,ALG,National Fuels Corp Ottawa,2022-05-17 15:48:00,30000,AC0105,Canceled,2022-05-17 15:48:00,0.0
+129,1552278,New,John Obero Smith,ALG,National Fuels Corp Ottawa,2022-05-17 15:48:00,22500,AC0105,Canceled,2022-05-17 15:52:00,0.07
+138,2166588,New,John Obero Smith,GUU,National Fuels Corp Ottawa,2022-08-06 14:07:00,20,AC0008,Canceled,2022-08-06 14:15:00,0.13
+139,2166605,New,John Obero Smith,GUU,National Fuels Corp Ottawa,2022-08-06 14:19:00,500,AC0008,Canceled,2022-08-06 14:19:00,0.0
+140,2166586,New,John Obero Smith,GUU,National Fuels Corp Ottawa,2022-08-06 14:07:00,50,AC0008,Canceled,2022-08-06 14:15:00,0.13
+141,2166602,New,John Obero Smith,GUU,National Fuels Corp Ottawa,2022-08-06 14:17:00,100,AC0008,Canceled,2022-08-06 14:18:00,0.02
+142,2166603,New,John Obero Smith,GUU,National Fuels Corp Ottawa,2022-08-06 14:18:00,200,AC0008,Canceled,2022-08-06 14:18:00,0.0
+143,2166601,New,John Obero Smith,GUU,National Fuels Corp Ottawa,2022-08-06 14:17:00,500,AC0008,Canceled,2022-08-06 14:17:00,0.0
+144,2166606,New,John Obero Smith,GUU,National Fuels Corp Ottawa,2022-08-06 14:19:00,1000,AC0008,Canceled,2022-08-06 14:20:00,0.02
+145,2166597,New,John Obero Smith,GUU,National Fuels Corp Ottawa,2022-08-06 14:16:00,100,AC0008,Canceled,2022-08-06 14:17:00,0.02
+146,2166593,New,John Obero Smith,GUU,National Fuels Corp Ottawa,2022-08-06 14:15:00,20,AC0008,Canceled,2022-08-06 14:16:00,0.02
+147,2166604,New,John Obero Smith,GUU,National Fuels Corp Ottawa,2022-08-06 14:18:00,100,AC0008,Canceled,2022-08-06 14:18:00,0.0
+148,2166876,New,John Obero Smith,GUU,National Fuels Corp Ottawa,2022-06-21 18:02:00,15,AC0008,Canceled,2022-06-21 18:02:00,0.0
+149,1552101,New,John Obero Smith,HHD,National Fuels Corp Ottawa,2022-06-21 18:03:00,42500,AC0008,Canceled,2022-06-21 18:03:00,0.0
+150,1552105,New,John Obero Smith,HHD,National Fuels Corp Ottawa,2022-06-21 18:04:00,25000,AC0008,Canceled,2022-06-21 18:04:00,0.0
+151,2166883,New,John Obero Smith,GUU,National Fuels Corp Ottawa,2022-06-21 18:34:00,50,AC0008,Canceled,2022-06-21 18:35:00,0.02
+152,2166877,New,John Obero Smith,GUU,National Fuels Corp Ottawa,2022-06-21 18:07:00,50,AC0008,Canceled,2022-06-21 18:08:00,0.02
+153,2166866,New,John Obero Smith,TMW,National Fuels Corp Ottawa,2022-06-21 17:50:00,100,AC0008,Canceled,2022-06-21 17:51:00,0.02
+154,1552114,New,John Obero Smith,HHD,National Fuels Corp Ottawa,2022-06-21 18:06:00,50000,AC0008,Canceled,2022-06-21 18:07:00,0.02
+155,1552093,New,John Obero Smith,HHD,National Fuels Corp Ottawa,2022-06-21 18:02:00,2500,AC0008,Canceled,2022-06-21 18:02:00,0.0
+156,2166880,New,John Obero Smith,GUU,National Fuels Corp Ottawa,2022-06-21 18:09:00,100,AC0008,Canceled,2022-06-21 18:10:00,0.02
+157,2166879,New,John Obero Smith,GUU,National Fuels Corp Ottawa,2022-06-21 18:08:00,20,AC0008,Canceled,2022-06-21 18:10:00,0.03
+158,1552108,New,John Obero Smith,HHD,National Fuels Corp Ottawa,2022-06-21 18:05:00,25000,AC0008,Canceled,2022-06-21 18:06:00,0.02
+159,1552736,New,John Obero Smith,ALG,National Fuels Corp Ottawa,2022-12-05 18:59:00,30000,AC0105,Canceled,2022-12-05 18:59:00,0.0
+160,1552441,New,John Obero Smith,ALG,National Fuels Corp Ottawa,2022-12-05 17:49:00,15000,AC0105,Canceled,2022-12-05 17:49:00,0.0
+161,2166875,New,John Obero Smith,HOF,National Fuels Corp Ottawa,2022-06-21 17:57:00,15,AC0008,Canceled,2022-06-21 17:57:00,0.0
+162,2166873,New,John Obero Smith,DDF,National Fuels Corp Ottawa,2022-06-21 17:53:00,200,AC0008,Canceled,2022-06-21 17:56:00,0.05
+164,2209545,New,Gyllenhal Sons,ARI,National Fuels Canada,2021-10-06 19:51:00,5,AC0025,Canceled,2021-10-06 19:52:00,0.02
+165,2209639,New,Gyllenhal Sons,TMF,National Fuels Corp,2021-11-06 19:02:00,100,AC0025,Canceled,2021-11-06 19:02:00,0.0
+166,2209631,New,Gyllenhal Sons,TMW,National Fuels Corp,2021-11-06 19:00:00,50,AC0025,Canceled,2021-11-06 19:00:00,0.0
+167,2210491,New,Gyllenhal Sons,TMW,National Fuels Corp,2021-01-11 13:20:00,7,AC0025,Canceled,2021-01-11 13:23:00,0.05
+168,1552377,New,Gyllenhal Sons,TRL,National Fuels Corp,2021-10-29 13:31:05,7500,AC0025,Canceled,2021-10-29 13:33:21,0.04
+169,1551410,New,Gyllenhal Sons,,National Fuels Corp,2021-01-11 12:47:00,10000,AC0025,Canceled,2021-01-11 12:49:00,0.03
+170,58500231,New,Gyllenhal Sons,NEP,National Fuels Corp,2021-08-16 21:29:32,100,AC0120,Canceled,2021-08-16 21:29:34,0.0
+171,2209635,New,Gyllenhal Sons,TMR,National Fuels Corp,2021-11-06 19:01:00,60,AC0025,Canceled,2021-11-06 19:01:00,0.0
+172,2209333,New,Gyllenhal Sons,,National Fuels Corp,2021-06-15 13:40:50,10,AC0120,Canceled,2021-06-15 18:08:44,4.46
+173,5008713,New,John Obero Smith,N,National Fuels Corp Ottawa,2022-05-16 16:01:00,1,AC0008,Canceled,2022-05-16 16:01:00,0.0
+177,5008714,New,John Obero Smith,N,National Fuels Corp Ottawa,2022-05-16 16:01:00,1,AC0008,Canceled,2022-05-16 16:01:00,0.0
+181,5012069,New,Gyllenhal Sons,N,National Fuels Canada,2021-05-19 15:21:50,1,AC0120,Canceled,2021-05-19 22:00:00,6.64
+182,5006155,New,Gyllenhal Sons,N,National Fuels Corp,2021-06-15 14:44:03,1,AC0120,Canceled,2021-06-15 19:14:36,4.51
+184,13128430,New,Gyllenhal Sons,B,National Fuels Corp,2021-06-15 20:16:58,1,AC0120,Canceled,2021-06-15 22:00:00,1.72
+185,5006157,New,Gyllenhal Sons,N,National Fuels Corp,2021-06-15 14:44:21,1,AC0120,Canceled,2021-06-15 19:14:36,4.5
+187,13011140,New,Gyllenhal Sons,B,National Fuels Canada,2020-07-29 18:49:51,1,AC0120,Canceled,2020-07-29 22:00:00,3.17
+188,13011181,New,Gyllenhal Sons,B,National Fuels Canada,2020-07-29 19:10:40,1,AC0120,Canceled,2020-07-29 22:00:00,2.82
+189,13086810,New,Gyllenhal Sons,B,National Fuels Corp,2021-06-17 14:37:32,1,AC0120,Canceled,2021-06-17 22:00:00,7.37
+190,15025997,New,Gyllenhal Sons,T,National Fuels Corp,2021-06-15 15:07:45,1,AC0120,Canceled,2021-06-15 15:07:49,0.0
+191,13004002,New,Xylene Rhegis,B,National Fuels Canada,2020-07-22 16:12:50,1,AC0120,Canceled,2020-07-22 22:00:00,5.79
+192,15025998,New,Gyllenhal Sons,T,National Fuels Corp,2021-06-15 15:07:53,1,AC0120,Canceled,2021-06-15 15:07:55,0.0
+193,15025992,New,Gyllenhal Sons,T,National Fuels Corp,2021-06-15 14:57:20,1,AC0120,Canceled,2021-06-15 15:33:03,0.6
+194,5012161,New,Gyllenhal Sons,N,National Fuels Canada,2021-05-19 16:07:29,1,AC0120,Canceled,2021-05-19 22:00:00,5.88
+195,5006073,New,Gyllenhal Sons,N,National Fuels Corp,2021-06-15 14:18:08,1,AC0120,Canceled,2021-06-15 18:16:54,3.98
+196,13128429,New,Gyllenhal Sons,B,National Fuels Corp,2021-06-15 20:16:46,1,AC0120,Canceled,2021-06-15 22:00:00,1.72
+197,15000251,New,Gyllenhal Sons,T,National Fuels Corp,2021-10-26 13:14:01,1,AC0120,Canceled,2021-10-26 22:00:00,8.77
+198,5012155,New,Gyllenhal Sons,N,National Fuels Canada,2021-05-19 15:57:57,1,AC0120,Canceled,2021-05-19 22:00:00,6.03
+199,13011182,New,Gyllenhal Sons,B,National Fuels Canada,2020-07-29 19:10:44,1,AC0120,Canceled,2020-07-29 22:00:00,2.82
+200,15026009,New,Gyllenhal Sons,T,National Fuels Corp,2021-06-15 15:32:53,1,AC0120,Canceled,2021-06-15 19:14:36,3.7
+202,15025995,New,Gyllenhal Sons,T,National Fuels Corp,2021-06-15 15:07:19,1,AC0120,Canceled,2021-06-15 15:07:28,0.0
+203,5009231,New,Gyllenhal Sons,N,National Fuels Corp,2021-06-15 20:31:07,1,AC0120,Canceled,2021-06-15 20:31:35,0.01
+204,5012064,New,Gyllenhal Sons,N,National Fuels Canada,2021-05-19 15:21:38,1,AC0120,Canceled,2021-05-19 22:00:00,6.64
+205,15026013,New,Gyllenhal Sons,T,National Fuels Corp,2021-06-15 15:33:35,1,AC0120,Canceled,2021-06-15 19:14:36,3.68
+207,15000246,New,Gyllenhal Sons,T,National Fuels Corp,2021-04-11 15:41:00,1,AC0120,Canceled,2021-04-11 22:00:00,6.32
+208,5008990,New,Gyllenhal Sons,N,National Fuels Corp,2021-06-15 18:17:23,1,AC0120,Canceled,2021-06-15 19:14:36,0.95
+210,5009232,New,Gyllenhal Sons,N,National Fuels Corp,2021-06-15 20:31:16,1,AC0120,Canceled,2021-06-15 22:00:00,1.48
+211,5006070,New,Gyllenhal Sons,N,National Fuels Corp,2021-06-15 14:18:02,1,AC0120,Canceled,2021-06-15 19:14:36,4.94
+213,15025996,New,Gyllenhal Sons,T,National Fuels Corp,2021-06-15 15:07:33,1,AC0120,Canceled,2021-06-15 15:07:37,0.0
+214,5006069,New,Gyllenhal Sons,N,National Fuels Corp,2021-06-15 14:17:51,1,AC0120,Canceled,2021-06-15 19:14:36,4.95
+216,5027839,New,Gyllenhal Sons,N,National Fuels Corp,2021-10-26 12:50:37,1,AC0120,Canceled,2021-10-26 22:00:00,9.16
+217,5006071,New,Gyllenhal Sons,N,National Fuels Corp,2021-06-15 14:18:06,1,AC0120,Canceled,2021-06-15 19:14:36,4.94
+219,15025999,New,Gyllenhal Sons,T,National Fuels Corp,2021-06-15 15:08:01,1,AC0120,Canceled,2021-06-15 15:08:04,0.0
+220,5007481,New,Gyllenhal Sons,N,National Fuels Canada,2021-04-28 13:36:51,1,AC0025,Canceled,2021-04-28 22:00:00,8.39
+221,13007348,New,Gyllenhal Sons,B,National Fuels Canada,2021-04-28 14:43:56,1,AC0025,Canceled,2021-04-28 15:30:00,0.77
+222,13007310,New,Gyllenhal Sons,B,National Fuels Canada,2021-04-28 14:11:53,1,AC0025,Canceled,2021-04-28 15:30:00,1.3
+223,13007347,New,Gyllenhal Sons,B,National Fuels Canada,2021-04-28 14:43:51,1,AC0025,Canceled,2021-04-28 15:30:00,0.77
+224,13007543,New,Gyllenhal Sons,B,National Fuels Canada,2021-04-28 15:25:57,1,AC0025,Canceled,2021-04-28 22:00:00,6.57
+225,13007081,New,Gyllenhal Sons,B,National Fuels Canada,2021-04-28 13:35:16,1,AC0025,Canceled,2021-04-28 15:30:00,1.91
+226,13007351,New,Gyllenhal Sons,B,National Fuels Canada,2021-04-28 14:44:35,1,AC0025,Canceled,2021-04-28 15:30:00,0.76
+227,13007544,New,Gyllenhal Sons,B,National Fuels Canada,2021-04-28 15:25:59,1,AC0025,Canceled,2021-04-28 15:30:00,0.07
+228,2166856,New,John Obero Smith,GUU,National Fuels Corp Ottawa,2022-06-21 17:43:00,1,AC0008,Canceled,2022-06-21 17:44:00,0.02
+229,5005966,New,Gyllenhal Sons,,National Fuels Corp,2021-06-15 13:42:26,1,AC0025,Canceled,2021-06-15 16:00:00,2.29
+230,2209543,New,Gyllenhal Sons,,National Fuels Corp,2021-06-15 15:08:08,1,AC0120,Canceled,2021-06-15 15:08:10,0.0
+231,7000369,New,Gyllenhal Sons,SB,National Fuels Corp,2021-06-15 17:43:02,1,AC0120,Canceled,2021-06-15 19:14:36,1.53
+233,2209544,New,Gyllenhal Sons,,National Fuels Corp,2021-06-15 15:08:13,1,AC0120,Canceled,2021-06-15 15:08:15,0.0
+234,7000368,New,Gyllenhal Sons,CC,National Fuels Corp,2021-06-15 16:57:59,1,AC0120,Canceled,2021-06-15 17:30:00,0.53
+235,13008617,New,Gyllenhal Sons,B,National Fuels Corp,2021-10-26 11:31:58,1,AC0120,Canceled,2021-10-26 22:00:00,10.47
